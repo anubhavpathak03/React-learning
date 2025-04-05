@@ -1,1 +1,1 @@
-learning React with "chai aur code youtube chanel" and Building some cool stuffs😎
+learning React with "Chai aur Code Youtube Series" and Building some cool stuffs😎
